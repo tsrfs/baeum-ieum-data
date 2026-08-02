@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026년 8월 2일 15:54",
-  "collectedAtIso": "2026-08-02T06:54:59.465Z",
+  "collectedAt": "2026년 8월 2일 16:01",
+  "collectedAtIso": "2026-08-02T07:01:09.757Z",
   "sourceCount": 81,
   "stats": {
     "programs": 162,
-    "checked": 0,
-    "failed": 0,
-    "changed": 0
+    "checked": 101,
+    "failed": 61,
+    "changed": 31
   },
   "programs": [
     {
@@ -19,7 +19,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "성동구 생활권자 · 마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -30,7 +34,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "성동구 생활권자 · 마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -41,7 +49,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "성동구 생활권자 · 마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -52,7 +64,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -60,10 +76,16 @@
       "title": "서양문화의 기원, 호메로스의 세계",
       "category": "인문",
       "schedule": "화 15:00 · ~8.11",
-      "status": "신청 가능",
+      "status": "대기 신청",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "availability": "대기접수",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -74,7 +96,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -85,7 +111,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -96,7 +126,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -107,7 +141,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -118,7 +156,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -129,7 +171,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -137,10 +183,16 @@
       "title": "AI와 함께하는 똑똑한 스마트폰 활용",
       "category": "디지털",
       "schedule": "금 10:00 · ~8.28",
-      "status": "신청 가능",
+      "status": "대기 신청",
       "cost": "무료",
       "note": "마감 시까지",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "availability": "대기접수",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -151,7 +203,11 @@
       "status": "전화 확인",
       "cost": "무료",
       "note": "현장 잔여석 · 02-2286-7807",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -162,7 +218,11 @@
       "status": "신청 가능",
       "cost": "무료",
       "note": "재료비 별도 가능",
-      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&"
+      "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -174,9 +234,12 @@
       "cost": "무료",
       "note": "성인 13명 · 8.18 09:00 선착순 접수 시작 · 8.24 17:00 마감",
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=867&key=4916&pageIndex=1&searchCheck=E2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -188,9 +251,12 @@
       "cost": "무료",
       "note": "성인 20명 · 8.18 09:00 선착순 접수 시작 · 8.24 17:00 마감",
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=866&key=4916&pageIndex=1&searchCheck=E2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -202,9 +268,12 @@
       "cost": "무료",
       "note": "성인 50명 · 8.18 09:00 선착순 접수 시작 · 8.24 17:00 마감",
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=865&key=4916&pageIndex=1&searchCheck=E2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -216,9 +285,12 @@
       "cost": "무료",
       "note": "성인 50명 · 8.18 09:00 선착순 접수 시작 · 8.24 17:00 마감",
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=864&key=4916&pageIndex=1&searchCheck=E2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -226,13 +298,17 @@
       "title": "제13기 마을정원사 양성교육",
       "category": "정원",
       "schedule": "8.20~11.6",
-      "status": "정원 마감",
+      "status": "신청 가능",
       "cost": "30,000원",
       "note": "22/20명 · 정원 초과, 대기 신청 단계 · 8.7 18:00 마감",
       "url": "https://www.sd.go.kr/booking/bookingOnlineRcepDetail.do?key=4871&progrmNo=742",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "대기접수"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -244,9 +320,12 @@
       "cost": "30,000원",
       "note": "15/20명 신청 · 잔여 5석 · 8.7 18:00 마감",
       "url": "https://www.sd.go.kr/booking/bookingOnlineRcepDetail.do?key=4871&progrmNo=743",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -254,13 +333,17 @@
       "title": "제15기 마을정원사 양성교육",
       "category": "정원",
       "schedule": "8.21~11.6",
-      "status": "정원 마감",
+      "status": "신청 가능",
       "cost": "30,000원",
       "note": "22/20명 · 정원 초과, 대기 신청 단계 · 8.7 18:00 마감",
       "url": "https://www.sd.go.kr/booking/bookingOnlineRcepDetail.do?key=4871&progrmNo=744",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "대기접수"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -271,7 +354,11 @@
       "status": "정원 마감",
       "cost": "무료",
       "note": "성인 12명 · 공식 예약 12/12 · 취소석 확인",
-      "url": "https://aicenter.sd.go.kr/user/page/notice?mode=detail&nttId=10"
+      "url": "https://aicenter.sd.go.kr/user/page/notice?mode=detail&nttId=10",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -279,13 +366,17 @@
       "title": "다양한 문서 만들기(한글·엑셀·PPT)",
       "category": "디지털",
       "schedule": "월·수 10:00~12:00 · 8.3~8.31",
-      "status": "정원 마감",
+      "status": "대기 신청",
       "cost": "55세 이상 무료",
       "note": "36/36명 · 정원 충족 · 8.7까지 접수 표기, 취소석 문의 02-2286-6024",
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "대기접수",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -293,13 +384,17 @@
       "title": "스마트폰 기본 앱 활용",
       "category": "디지털",
       "schedule": "월·수 13:00~15:00 · 8.3~8.31",
-      "status": "정원 마감",
+      "status": "대기 신청",
       "cost": "55세 이상 무료",
       "note": "36/36명 · 정원 충족 · 8.7까지 접수 표기, 취소석 문의 02-2286-6024",
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "대기접수",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -307,13 +402,17 @@
       "title": "(특강) 스마트폰 기초",
       "category": "디지털",
       "schedule": "8.4~8.13",
-      "status": "신청 가능",
+      "status": "대기 신청",
       "cost": "55세 이상 무료",
       "note": "11/20명 · 잔여 9석 · 성동구민 · 8.3 마감",
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "대기접수",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -325,9 +424,12 @@
       "cost": "55세 이상 무료",
       "note": "20/20명 · 성동구민 · 취소석 문의 02-2286-6024",
       "url": "https://www.sd.go.kr/booking/index.do",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -339,9 +441,12 @@
       "cost": "55세 이상 무료",
       "note": "20/20명 · 성동구민 · 취소석 문의 02-2286-6024",
       "url": "https://www.sd.go.kr/booking/index.do",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "성동구",
@@ -349,13 +454,17 @@
       "title": "인터넷 기초부터 AI 활용까지(PC)",
       "category": "디지털",
       "schedule": "월·수 15:00~17:00 · 8.3~8.31",
-      "status": "정원 마감",
+      "status": "대기 신청",
       "cost": "55세 이상 무료",
       "note": "36/36명 · 정원 충족 · 8.7까지 접수 표기, 취소석 문의 02-2286-6024",
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "대기접수",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "성동구",
@@ -366,7 +475,10 @@
       "status": "전화 확인",
       "cost": "강좌별",
       "note": "추가 모집 · 방문 또는 전화",
-      "url": "https://sdsenior.or.kr/?lang=ko"
+      "url": "https://sdsenior.or.kr/?lang=ko",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "HTTP 403"
     },
     {
       "district": "성동구",
@@ -377,7 +489,11 @@
       "status": "전화 확인",
       "cost": "강좌별",
       "note": "신규·잔여석 확인",
-      "url": "https://www.oksoocwc.or.kr/main/sub.html?Mode=view&boardID=www30&num=4466"
+      "url": "https://www.oksoocwc.or.kr/main/sub.html?Mode=view&boardID=www30&num=4466",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "동대문구",
@@ -389,7 +505,10 @@
       "cost": "확인 필요",
       "note": "18/30명 신청 · 잔여 12명 · 8.19까지 · 선착순",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseList.do?key=1557",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -401,9 +520,11 @@
       "cost": "확인 필요",
       "note": "동대문구민 20명 · 7.29 09:00부터 선착순 · 02-2127-4653",
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -415,9 +536,11 @@
       "cost": "확인 필요",
       "note": "동대문구민 20명 · 7.29 09:00부터 선착순 · 02-2127-4653",
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -429,9 +552,11 @@
       "cost": "확인 필요",
       "note": "동대문구민 20명 · 7.29 09:00부터 선착순 · 02-2127-4653",
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -443,9 +568,11 @@
       "cost": "확인 필요",
       "note": "동대문구민 20명 · 7.29 09:00부터 선착순 · 02-2127-4653",
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -457,8 +584,10 @@
       "cost": "확인 필요",
       "note": "정원 30/30명 · 대기 5/5명까지 마감",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7171",
-      "change": "상태변경",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -470,8 +599,10 @@
       "cost": "50,000원",
       "note": "8.14 09:00 접수 시작 · 30명 · 대기 15명 · 동대문구민",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7203",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -483,8 +614,10 @@
       "cost": "50,000원",
       "note": "8.14 09:00 접수 시작 · 20명 · 대기 10명 · 동대문구민",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7202",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -496,8 +629,10 @@
       "cost": "50,000원",
       "note": "8.14 09:00 접수 시작 · 30명 · 대기 15명 · 동대문구민",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7201",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -509,8 +644,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=178&pageIndex=16&pageUnit=15&searchCnd=all",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -522,8 +659,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=45&pageIndex=16&pageUnit=15&searchCnd=all",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -535,8 +674,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=85&pageUnit=15&pageIndex=16&searchCnd=all",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -548,8 +689,10 @@
       "cost": "72,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=44&pageUnit=15&pageIndex=16&searchCnd=all",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -561,8 +704,10 @@
       "cost": "96,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=46&pageUnit=15&pageIndex=16&searchCnd=all",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -574,8 +719,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=47&pageUnit=15&pageIndex=16&searchCnd=all",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -587,8 +734,10 @@
       "cost": "무료",
       "note": "8.18 09:00 접수 시작 · 어르신·주부 대상 · 온라인 정원 0명 · 방문접수 문의",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=4614&receptionStts=TBCCPT",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -600,8 +749,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=4613&receptionStts=TBCCPT",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -613,8 +764,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 어르신·주부 대상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=4515&receptionStts=TBCCPT",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -626,8 +779,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=360&receptionStts=TBCCPT",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -639,8 +794,10 @@
       "cost": "48,000원",
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=271&receptionStts=TBCCPT",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -652,9 +809,11 @@
       "cost": "무료",
       "note": "20/20명 · 공식 목록 접수마감 · 취소석 문의",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7187&receptionStts=ACCPT",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -666,9 +825,11 @@
       "cost": "무료",
       "note": "22/22명 · 공식 목록 접수마감 · 취소석 문의",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7178&receptionStts=ACCPT",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -680,8 +841,10 @@
       "cost": "무료",
       "note": "10/10명 · 65세 이상 특화과정 · 취소석 여부 02-1577-2066",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7175&receptionStts=ACCPT",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -692,7 +855,10 @@
       "status": "전화 확인",
       "cost": "강좌별",
       "note": "잔여석·대기 · 070-5068-0716",
-      "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202"
+      "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -703,7 +869,10 @@
       "status": "전화 확인",
       "cost": "강좌별",
       "note": "잔여석·대기",
-      "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202"
+      "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -714,7 +883,10 @@
       "status": "전화 확인",
       "cost": "강좌별",
       "note": "잔여석·대기",
-      "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202"
+      "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "중구",
@@ -726,8 +898,11 @@
       "cost": "재료비 25,000원",
       "note": "어르신 포함 성인 10명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -739,8 +914,11 @@
       "cost": "재료비 20,000원",
       "note": "어르신 포함 성인 8명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
-      "change": "신규",
-      "startPhase": "진행 중"
+      "startPhase": "진행 중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -752,8 +930,11 @@
       "cost": "재료비 10,000원",
       "note": "어르신 포함 성인 8명 · 아이패드 활용 · 중구민 우선",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
-      "change": "신규",
-      "startPhase": "진행 중"
+      "startPhase": "진행 중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -765,8 +946,11 @@
       "cost": "재료비 10,000원",
       "note": "어르신 포함 성인 8명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -778,8 +962,11 @@
       "cost": "재료비 25,000원",
       "note": "어르신 포함 성인 8명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
-      "change": "신규",
-      "startPhase": "개강 전"
+      "startPhase": "개강 전",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -791,8 +978,11 @@
       "cost": "무료",
       "note": "어르신 포함 성인 15명 · 온라인 Zoom · 중구민 우선",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
-      "change": "신규",
-      "startPhase": "진행 중"
+      "startPhase": "진행 중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -804,9 +994,12 @@
       "cost": "무료",
       "note": "중구민 대상 · 교육 영상과 준비물 일부 제공 · 7.21 10:00부터 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cid=1461115763&cmsid=14231&mode=view",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -818,9 +1011,12 @@
       "cost": "무료 여부 확인",
       "note": "13세 이상 중구민 · 정원 30명, 대기 2명 · 8.11 18:00 마감 · 선착순",
       "url": "https://www.junggu.seoul.kr/booking/content.do?cmsid=16661&manageSeq=2169&order=1",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -832,9 +1028,12 @@
       "cost": "확인 필요",
       "note": "성인 중구민 20명 선착순 · 총 8회 · 운동 강도와 건강 상태 사전 확인 · 02-3396-6372/6373",
       "url": "https://www.junggu.seoul.kr/health/content.do?cid=146064&cmsid=15750&mode=view",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -846,9 +1045,12 @@
       "cost": "무료 여부 확인",
       "note": "65세 이상 중구민·동호인 18명 · 정규 모집 7.29 종료 · 취소석 문의 02-2264-4555",
       "url": "https://junggu.seoul.kr/content.do?cmsid=14231&mode=view&cid=1461458927",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -860,9 +1062,12 @@
       "cost": "무료 여부 확인",
       "note": "65세 이상 중구민·동호인 18명 · 정규 모집 7.29 종료 · 취소석 문의 02-2264-4555",
       "url": "https://junggu.seoul.kr/content.do?cmsid=14231&mode=view&cid=1461458927",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -873,7 +1078,11 @@
       "status": "전화 확인",
       "cost": "과정별",
       "note": "성인 과정 신청 여부 확인",
-      "url": "https://www.junggu.seoul.kr/content.do?cmsid=14680"
+      "url": "https://www.junggu.seoul.kr/content.do?cmsid=14680",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "중구",
@@ -884,7 +1093,11 @@
       "status": "전화 확인",
       "cost": "확인 필요",
       "note": "상담 후 참여 · 02-6956-3518",
-      "url": "https://www.junggu.seoul.kr/"
+      "url": "https://www.junggu.seoul.kr/",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -896,8 +1109,10 @@
       "cost": "강좌별",
       "note": "추가접수·대기 등록 6.11 종료 · 현재 잔여석 전화 확인 · 02-466-6242",
       "url": "https://gjsenior.or.kr/bbs/board.php?bo_table=notice&wr_id=686",
-      "change": "상태변경",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -909,8 +1124,10 @@
       "cost": "강좌별",
       "note": "추가접수·대기 등록 6.11 종료 · 현재 잔여석 전화 확인 · 02-466-6242",
       "url": "https://gjsenior.or.kr/bbs/board.php?bo_table=notice&wr_id=686",
-      "change": "상태변경",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -922,9 +1139,11 @@
       "cost": "확인 필요",
       "note": "65세 이상 · 하반기 잔여석 문의 · 02-450-9762",
       "url": "https://www.gwangjin.go.kr/health/bbs/B0000004/view.do?menuNo=300282&nttId=6567970&pageIndex=",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -936,9 +1155,11 @@
       "cost": "확인 필요",
       "note": "65세 이상 · 하반기 잔여석 문의 · 02-450-9762",
       "url": "https://www.gwangjin.go.kr/health/bbs/B0000004/view.do?menuNo=300282&nttId=6567970&pageIndex=",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -950,9 +1171,11 @@
       "cost": "55세 이상 무료",
       "note": "22/22명 · 대기 3명 · 추가접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -964,9 +1187,11 @@
       "cost": "55세 이상 무료",
       "note": "19/22명 · 접수기간 종료 · 잔여석 현장 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -978,9 +1203,11 @@
       "cost": "55세 이상 무료",
       "note": "16/22명 · 접수기간 종료 · 잔여석 현장 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -992,9 +1219,11 @@
       "cost": "55세 이상 무료",
       "note": "22/22명 · 대기 2명 · 추가접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1006,9 +1235,11 @@
       "cost": "55세 이상 무료",
       "note": "21/22명 · 접수기간 종료 · 잔여석 현장 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1020,9 +1251,11 @@
       "cost": "55세 이상 무료",
       "note": "22/22명 · 추가접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1034,9 +1267,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 6명 · 신청 11명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1048,9 +1283,11 @@
       "cost": "55세 이상 무료",
       "note": "20/20명 · 접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1062,9 +1299,11 @@
       "cost": "무료 특강",
       "note": "정원 6명 · 신청 8명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1076,9 +1315,11 @@
       "cost": "무료 특강",
       "note": "정원 10명 · 신청 21명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1090,9 +1331,11 @@
       "cost": "55세 이상 무료",
       "note": "12/12명 · 접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1104,9 +1347,11 @@
       "cost": "55세 이상 무료",
       "note": "12/12명 · 접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1118,9 +1363,11 @@
       "cost": "55세 이상 무료",
       "note": "12/12명 · 접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1132,9 +1379,11 @@
       "cost": "55세 이상 무료",
       "note": "12/12명 · 접수 종료 · 취소석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1146,9 +1395,11 @@
       "cost": "55세 이상 무료",
       "note": "12/12명 · 대기 2명 · 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1160,9 +1411,11 @@
       "cost": "55세 이상 무료",
       "note": "11/12명 기록 · 접수기간 종료 · 잔여석 문의 02-469-9670",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1174,9 +1427,11 @@
       "cost": "무료 특강",
       "note": "정원 12명 · 신청 12명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1188,9 +1443,11 @@
       "cost": "무료 특강",
       "note": "정원 12명 · 신청 20명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1202,9 +1459,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 47명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1216,9 +1475,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 6명 · 신청 20명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1230,9 +1491,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 29명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1244,9 +1507,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 30명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1258,9 +1523,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 33명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1272,9 +1539,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 38명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1286,9 +1555,11 @@
       "cost": "무료 특강",
       "note": "정원 20명 · 신청 25명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1300,9 +1571,11 @@
       "cost": "무료 특강",
       "note": "정원 6명 · 신청 14명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1314,9 +1587,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 34명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1328,9 +1603,11 @@
       "cost": "55세 이상 무료",
       "note": "20/20명 · 대기 5명 · 추가접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1342,9 +1619,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 47명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "광진구",
@@ -1356,9 +1635,11 @@
       "cost": "55세 이상 무료",
       "note": "정원 20명 · 신청 30명 · 추첨 접수 종료",
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인 실패",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1370,9 +1651,12 @@
       "cost": "무료",
       "note": "성인 추가모집 0/5명 · 대기 0/2명 · 8.12 18:00 마감 · 본인 ID 신청",
       "url": "https://www.l4d.or.kr/small/menu/10016/program/30018/lectureDetail.do?currentPageNo=1&lectureIdx=1161&manageCd=ALL&statusCd=",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "동대문구",
@@ -1384,9 +1668,12 @@
       "cost": "무료",
       "note": "성인 12명 · 8.3 11:00 선착순 접수 시작 · 동대문구립도서관 회원카드 필요",
       "url": "https://www.l4d.or.kr/jac/20004/bbsPostDetail.do?postIdx=47458",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1394,13 +1681,17 @@
       "title": "나무 아래 힐링체험: 8월 생명의 리듬",
       "category": "건강",
       "schedule": "수~금 10:00 또는 14:00 · 8월",
-      "status": "신청 가능",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "어르신·성인 대상 · 선착순 10~15명 · 이용 2일 전까지 예약 · 8.31 접수 마감",
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260428140656838887",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "접수중"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "광진구",
@@ -1412,9 +1703,12 @@
       "cost": "재료비 5,000원",
       "note": "3/5명 신청 · 잔여 2석 · 대기 5명 · 8.10 마감 · 본인 명의 신청",
       "url": "https://gwangjinlib.seoul.kr/gjinfo/lectureDetail.do?lectureIdx=14277",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1426,9 +1720,12 @@
       "cost": "재료비 5,000원",
       "note": "4/5명 신청 · 잔여 1석 · 대기 5명 · 8.10 마감 · 본인 명의 신청",
       "url": "https://gwangjinlib.seoul.kr/gjinfo/lectureDetail.do?lectureIdx=14278",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1440,9 +1737,12 @@
       "cost": "무료",
       "note": "성인 30명 · 대기 10명 · 8.7 마감 · 총 3회 모두 참석 권장",
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureDetail.do?lectureIdx=14210",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중"
+      "availability": "접수중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1454,9 +1754,12 @@
       "cost": "무료",
       "note": "성인 50명 · 대기 5명 · 8.7 접수 시작 · 8.27 마감 · 홈페이지 회원",
       "url": "https://www.gwangjinlib.seoul.kr/achasan/menu/11602/program/30302/lectureDetail.do?currentPageNo=1&lectureIdx=14229&statusCd=&targetTypeCd=",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1468,9 +1771,12 @@
       "cost": "확인 필요",
       "note": "15/15명 · 공식 목록 접수마감 · 취소석·대기 가능 여부 확인",
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
-      "change": "상태변경",
       "startPhase": "개강 전",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1482,9 +1788,12 @@
       "cost": "확인 필요",
       "note": "성인 15명 · 공식 목록 0/15명 · 세부 접수 일정 공개 대기",
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1496,9 +1805,12 @@
       "cost": "확인 필요",
       "note": "누구나 70명 · 홈페이지·현장 접수 · 공식 목록 0/70명",
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "광진구",
@@ -1510,9 +1822,12 @@
       "cost": "확인 필요",
       "note": "누구나 10명 · 10/10명 정원마감 · 현재 대기자 접수",
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1524,8 +1839,11 @@
       "cost": "무료",
       "note": "성인 포함 관람객 누구나 · 별도 예약 없이 참여 · 12.6까지",
       "url": "https://museum.yongsan.go.kr/edus/view?id=920",
-      "change": "신규",
-      "startPhase": "진행 중"
+      "startPhase": "진행 중",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1533,13 +1851,17 @@
       "title": "나다운 이미지 찾기(퍼스널 이미지 완성하기)",
       "category": "취미",
       "schedule": "4기 · 7.27~8.14",
-      "status": "정원 마감",
+      "status": "접수 예정",
       "cost": "확인 필요",
       "note": "34/30명 · 정원 초과 · 대기 가능 여부 확인",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "정원마감"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1547,13 +1869,17 @@
       "title": "비폭력 대화, 상처 주지 않고 대화하는 법",
       "category": "인문",
       "schedule": "4기 · 7.27~8.14",
-      "status": "정원 마감",
+      "status": "접수 예정",
       "cost": "확인 필요",
       "note": "14/10명 · 정원 초과 · 대기 가능 여부 확인",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "정원마감"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1561,13 +1887,17 @@
       "title": "컬러와 향기: 컬러로 만나는 나",
       "category": "취미",
       "schedule": "4기 · 7.27~8.14",
-      "status": "신청 가능",
+      "status": "접수 예정",
       "cost": "확인 필요",
       "note": "8/10명 · 잔여 2석 · 공식 포털 모집중",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "접수중"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1575,13 +1905,17 @@
       "title": "장례지도사가 전하는 ‘나의 인생노트’ 작성",
       "category": "인문",
       "schedule": "4기 · 7.27~8.14",
-      "status": "신청 가능",
+      "status": "접수 예정",
       "cost": "확인 필요",
       "note": "5/10명 · 잔여 5석 · 공식 포털 모집중",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "접수중"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1589,13 +1923,17 @@
       "title": "나의 그림 친구: 쉽게 시작하는 드로잉",
       "category": "미술",
       "schedule": "4기 · 7.27~8.14",
-      "status": "정원 마감",
+      "status": "접수 예정",
       "cost": "확인 필요",
       "note": "14/10명 · 정원 초과 · 대기 가능 여부 확인",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "정원마감"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1603,13 +1941,17 @@
       "title": "그림책으로 자서전 쓰기",
       "category": "인문",
       "schedule": "4기 · 7.27~8.14",
-      "status": "신청 가능",
+      "status": "접수 예정",
       "cost": "확인 필요",
       "note": "6/10명 · 잔여 4석 · 공식 포털 모집중",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "접수중"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1617,13 +1959,17 @@
       "title": "가죽공예의 시작부터 마무리까지",
       "category": "공예",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 10명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1631,13 +1977,17 @@
       "title": "아로마 비누·핸드크림 만들기",
       "category": "공예",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 10명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1645,13 +1995,17 @@
       "title": "그림책 심리지도사 자격과정",
       "category": "인문",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 12명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1659,13 +2013,17 @@
       "title": "마음을 보는 타로카드",
       "category": "취미",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 15명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1673,13 +2031,17 @@
       "title": "뇌 건강을 위한 AI ART 작품 만들기",
       "category": "디지털",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 15명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1687,13 +2049,17 @@
       "title": "보릿대 줄기, 맥간 공예",
       "category": "공예",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 12명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1705,9 +2071,12 @@
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 8명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "접수예정",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1715,13 +2084,17 @@
       "title": "간편 몸펴기 체조, 바르게 몸을 펴자!",
       "category": "건강",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 8명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1729,13 +2102,17 @@
       "title": "싸인펜화·붓펜 캘리그라피 작품 만들기",
       "category": "미술",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 10명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1743,13 +2120,17 @@
       "title": "엄지손 피아노 칼림바 입문",
       "category": "음악",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 15명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1757,13 +2138,17 @@
       "title": "마음을 엮어가는 라탄공예",
       "category": "공예",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 12명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1771,13 +2156,17 @@
       "title": "책과 삶을 잇는 글쓰기",
       "category": "인문",
       "schedule": "6기 · 8.5~8.14 접수",
-      "status": "접수 예정",
+      "status": "정원 마감",
       "cost": "무료",
       "note": "8.5 접수 시작 · 정원 8명 · 선착순",
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수예정"
+      "availability": "정원마감",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1789,9 +2178,12 @@
       "cost": "무료",
       "note": "20세 이상 용산구민 · 정원 20명 내외 · 선착순 잔여석 02-2199-6490",
       "url": "https://yedu.yongsan.go.kr/pms/board/detail.do?boardidn=1024&boardseqn=1224&decorator=user27EdTotal&menucdv=04010000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1803,9 +2195,12 @@
       "cost": "무료",
       "note": "20세 이상 용산구민 · 정원 20명 내외 · 선착순 잔여석 02-2199-6490",
       "url": "https://yedu.yongsan.go.kr/pms/board/detail.do?boardidn=1024&boardseqn=1224&decorator=user27EdTotal&menucdv=04010000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1817,9 +2212,12 @@
       "cost": "무료",
       "note": "키오스크 주문·스마트 금융 앱 · 정원 20명 내외 · 잔여석 02-2199-6490",
       "url": "https://yedu.yongsan.go.kr/pms/board/detail.do?boardidn=1024&boardseqn=1224&decorator=user27EdTotal&menucdv=04010000&sitecdv=S0000500",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1827,10 +2225,16 @@
       "title": "일본어 초급·중급",
       "category": "외국어",
       "schedule": "8.3~12.4",
-      "status": "전화 확인",
+      "status": "정원 마감",
       "cost": "강좌별",
       "note": "취소석·대기 · 02-794-6100",
-      "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2329"
+      "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2329",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2",
+      "availability": "정원마감",
+      "change": "상태변경"
     },
     {
       "district": "용산구",
@@ -1841,7 +2245,11 @@
       "status": "전화 확인",
       "cost": "강좌별",
       "note": "취소석·대기",
-      "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2329"
+      "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2329",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1852,7 +2260,11 @@
       "status": "전화 확인",
       "cost": "강좌별",
       "note": "취소석 문의",
-      "url": "https://www.ysnoin.or.kr/index.php"
+      "url": "https://www.ysnoin.or.kr/index.php",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "용산구",
@@ -1864,9 +2276,12 @@
       "cost": "확인 필요",
       "note": "복지관 이용 어르신 · 기기 체험·1:1 상담 · 02-794-6100",
       "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&sfl=wr_subject&sod=desc&sop=and&sst=wr_datetime&stx=%EA%B5%90%EC%9C%A1&wr_id=2301",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "전화확인"
+      "availability": "전화확인",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "verified": "8.2"
     },
     {
       "district": "서초구",
@@ -1878,10 +2293,12 @@
       "cost": "무료",
       "note": "정원 30명 · 만 55세 이상 우선 · 공식 목록 ‘강좌대기’ · 추가 접수는 기관 확인",
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018500",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "서초구",
@@ -1893,10 +2310,12 @@
       "cost": "무료",
       "note": "정원 30명 · 만 55세 이상 우선 · 공식 목록 ‘강좌대기’ · 추가 접수는 기관 확인",
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018499",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "서초구",
@@ -1908,10 +2327,12 @@
       "cost": "무료",
       "note": "정원 30명 · 만 55세 이상 우선 · 공식 목록 ‘강좌대기’ · 추가 접수는 기관 확인",
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018498",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "서초구",
@@ -1923,10 +2344,12 @@
       "cost": "무료",
       "note": "정원 30명 · 만 55세 이상 우선 · 공식 목록 ‘강좌대기’ · 추가 접수는 기관 확인",
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018497",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "서초구",
@@ -1938,10 +2361,12 @@
       "cost": "무료",
       "note": "정원 30명 · 만 55세 이상 우선 · 공식 목록 ‘강좌대기’ · 추가 접수는 기관 확인",
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018496",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "서초구",
@@ -1953,10 +2378,12 @@
       "cost": "무료",
       "note": "정원 30명 · 만 55세 이상 우선 · 공식 목록 ‘강좌대기’ · 추가 접수는 기관 확인",
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018495",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "송파구",
@@ -1968,10 +2395,12 @@
       "cost": "60,000원",
       "note": "성인·오륜동 주민 대상 · 만 65세 이상 50% 감면 · 공식 페이지 대기신청 표시",
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16657",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "대기접수",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "송파구",
@@ -1983,10 +2412,12 @@
       "cost": "75,000원",
       "note": "성인 · 방문 정원 17명 · 만 65세 이상 25% 감면 · 방문 전 02-2147-4167 확인",
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16300",
-      "change": "신규",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "송파구",
@@ -1998,10 +2429,12 @@
       "cost": "54,000원",
       "note": "어르신 포함 성인 · 방문 정원 15명 · 경로 25% 감면 · 방문 전 02-2147-4060 확인",
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16626",
-      "change": "신규",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "송파구",
@@ -2009,14 +2442,17 @@
       "title": "2026년 3분기 요가(화·목)",
       "category": "운동",
       "schedule": "화·목 09:10~10:10 · 7.1~9.30",
-      "status": "신청 가능",
+      "status": "정원 마감",
       "cost": "60,000원",
       "note": "연령 제한 없음 · 방문 정원 25명 · 경로 25% 감면 · 방문 전 02-2147-4060 확인",
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16622",
-      "change": "신규",
       "startPhase": "진행 중",
-      "availability": "접수중",
-      "verified": "8.2"
+      "availability": "정원마감",
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "change": "상태변경"
     },
     {
       "district": "송파구",
@@ -2028,10 +2464,12 @@
       "cost": "90,000원",
       "note": "성인 여성·어르신 대상 · 경로우대 20% 감면 · 신분증 지참 · 방문 전 02-2147-4236 확인",
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=15955",
-      "change": "신규",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "송파구",
@@ -2043,10 +2481,12 @@
       "cost": "75,000원",
       "note": "성인·어르신 대상 · 초보 참여 가능 · 경로우대 20% 감면 · 방문 전 02-2147-4236 확인",
       "url": "https://www.songpa.go.kr/learn/youth/program/lecture_view.do?lecture_idx=15969",
-      "change": "신규",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "송파구",
@@ -2058,10 +2498,12 @@
       "cost": "20,000원",
       "note": "성인 · 공식 페이지 4/20명 표시 · 9.30까지 방문접수 · 방문 전 02-2147-4192 확인",
       "url": "https://www.songpa.go.kr/learn/youth/program/lecture_view.do?lecture_idx=190",
-      "change": "신규",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "송파구",
@@ -2073,10 +2515,12 @@
       "cost": "무료",
       "note": "대상 제한 없음 · 회차당 30명 · 8.24까지 온라인·현장 선착순 · 이용일 7일 전 14시 마감",
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260512144834110913",
-      "change": "신규",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "강남구",
@@ -2088,10 +2532,12 @@
       "cost": "150,000원",
       "note": "성인 40명 · 공식 최신 목록 40/40 · 취소석 여부 확인 필요",
       "url": "https://www.gangnam.go.kr/office/longlearn/edu/lecture/longlearn/view.do?eli_lect_key=39794&mid=longlearn_lecture_all",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "강남구",
@@ -2103,10 +2549,12 @@
       "cost": "무료",
       "note": "17/20명 · 8.27 23:59 마감 · 강남구 평생교육 강사 대상",
       "url": "https://www.gangnam.go.kr/office/longlearn/edu/lecture/longlearn/view.do?eli_lect_key=39106&mid=longlearn_lecture02",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "강남구",
@@ -2118,10 +2566,12 @@
       "cost": "무료",
       "note": "11/20명 · 8.30 23:59 마감 · 강남구 평생교육 강사 대상",
       "url": "https://www.gangnam.go.kr/office/longlearn/edu/lecture/longlearn/view.do?eli_lect_key=39107",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "강남구",
@@ -2129,14 +2579,17 @@
       "title": "즐거운 장독 독서단 추가모집",
       "category": "독서",
       "schedule": "금 10:00~12:00 · 8.14~12.18",
-      "status": "신청 가능",
+      "status": "대기 신청",
       "cost": "확인 필요",
       "note": "성인 · 추가정원 6명 중 1명 신청 · 대기 0/3명 · 8.13 마감",
       "url": "https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do?manageCd=MJ",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중",
-      "verified": "8.2"
+      "availability": "대기접수",
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "change": "상태변경"
     },
     {
       "district": "강남구",
@@ -2148,10 +2601,12 @@
       "cost": "확인 필요",
       "note": "성인 · 본정원 20/20명 · 대기 8/10명 · 8.11까지 대기 신청",
       "url": "https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do?manageCd=MJ",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "대기접수",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "강남구",
@@ -2163,10 +2618,12 @@
       "cost": "확인 필요",
       "note": "성인 · 본정원 20/20명, 대기 10/10명까지 모두 마감",
       "url": "https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do?manageCd=MJ",
-      "change": "신규",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "verified": "8.2"
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z"
     },
     {
       "district": "강남구",
@@ -2174,14 +2631,17 @@
       "title": "2026년 논픽션 북클럽 추가 회원 모집",
       "category": "독서",
       "schedule": "월 20:00~21:00 · 8.3~12.28 · 온라인",
-      "status": "신청 가능",
+      "status": "정원 마감",
       "cost": "확인 필요",
       "note": "성인 · 추가정원 6명 중 4명 신청 · 대기 0/5명 · 8.9 마감 · Zoom",
       "url": "https://library.gangnam.go.kr/intro/lectureList.do",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "접수중",
-      "verified": "8.2"
+      "availability": "정원마감",
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "change": "상태변경"
     },
     {
       "district": "강남구",
@@ -2189,14 +2649,17 @@
       "title": "0(Zero)인문학: 사유에서 몸으로",
       "category": "인문",
       "schedule": "수·토 · 8.5~10.31 · 회차별 상이",
-      "status": "정원 마감",
+      "status": "대기 신청",
       "cost": "확인 필요",
       "note": "성인 20명·대기 10명 규모 · 접수 종료 · 철학·현대무용·탐방 일정 상이",
       "url": "https://library.gangnam.go.kr/intro/lectureDetail.do?lectureIdx=33207&manageCd=MI",
-      "change": "신규",
       "startPhase": "개강 전",
-      "availability": "정원마감",
-      "verified": "8.2"
+      "availability": "대기접수",
+      "verified": "8.2",
+      "lastCheckedAt": "2026-08-02T07:01:09.757Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-08-02T07:01:09.757Z",
+      "change": "상태변경"
     }
   ]
 }
