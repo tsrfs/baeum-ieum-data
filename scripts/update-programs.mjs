@@ -49,25 +49,30 @@ function courseTitle(value = "") {
 }
 
 const requestHeaders = {
-  "user-agent": "Baeum-Ieum public education discovery bot/2.0 (+https://github.com/tsrfs/baeum-ieum-data)",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36 Baeum-Ieum/2.1",
   accept: "text/html,application/xhtml+xml",
   "accept-language": "ko-KR,ko;q=0.9,en;q=0.5",
 };
 
 async function fetchOfficialPage(url) {
-  try {
-    const response = await fetch(url, {
-      redirect: "follow", signal: AbortSignal.timeout(20_000), headers: requestHeaders,
-    });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const html = await response.text();
-    return {
-      ok: true, html: html.slice(0, 3_000_000), text: plainText(html).slice(0, 2_000_000),
-      status: response.status, finalUrl: response.url,
-    };
-  } catch (error) {
-    return { ok: false, error: String(error?.message ?? error).slice(0, 160) };
+  let lastError = "응답 없음";
+  for (let attempt = 1; attempt <= 2; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        redirect: "follow", signal: AbortSignal.timeout(22_000), headers: requestHeaders,
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const html = await response.text();
+      return {
+        ok: true, html: html.slice(0, 3_000_000), text: plainText(html).slice(0, 2_000_000),
+        status: response.status, finalUrl: response.url,
+      };
+    } catch (error) {
+      lastError = String(error?.message ?? error).slice(0, 160);
+      if (attempt < 2) await new Promise((resolve) => setTimeout(resolve, 900 + Math.floor(Math.random() * 700)));
+    }
   }
+  return { ok: false, error: lastError };
 }
 
 async function fetchMany(urls, concurrency = 8) {
@@ -198,7 +203,9 @@ function inferCost(text) {
 const urlCounts = new Map();
 for (const program of programs) urlCounts.set(program.url, (urlCounts.get(program.url) ?? 0) + 1);
 const statusUrls = [...urlCounts.keys()];
-const statusResults = await fetchMany(statusUrls, 8);
+const sourcePairs = discoverySources.flatMap((source) => source.urls.map((url) => ({ ...source, url })));
+const allSeedResults = await fetchMany([...statusUrls, ...sourcePairs.map((source) => source.url)], 4);
+const statusResults = allSeedResults;
 
 let checked = 0;
 let failed = 0;
@@ -231,8 +238,7 @@ const updatedPrograms = programs.map((program) => {
   return next;
 });
 
-const sourcePairs = discoverySources.flatMap((source) => source.urls.map((url) => ({ ...source, url })));
-const discoveryResults = await fetchMany(sourcePairs.map((source) => source.url), 8);
+const discoveryResults = allSeedResults;
 const rawCandidates = [];
 let discoverySourcesChecked = 0;
 let discoverySourcesFailed = 0;
@@ -258,7 +264,7 @@ for (const candidate of rawCandidates) {
 }
 
 const candidates = [...candidateMap.values()].filter((candidate) => !existingKeys.has(`${candidate.district}|${compact(candidate.title)}`)).slice(0, 120);
-const candidateResults = await fetchMany(candidates.map((candidate) => candidate.url), 8);
+const candidateResults = await fetchMany(candidates.map((candidate) => candidate.url), 4);
 const discoveredPrograms = [];
 for (const candidate of candidates) {
   const result = candidateResults.get(candidate.url);
@@ -305,6 +311,12 @@ const nextDataset = {
     checked: discoverySourcesChecked,
     failed: discoverySourcesFailed,
     candidates: candidateMap.size,
+    failedSources: sourcePairs.filter((source) => !discoveryResults.get(source.url)?.ok).map((source) => ({
+      district: source.district,
+      institution: source.institution,
+      url: source.url,
+      error: discoveryResults.get(source.url)?.error ?? "응답 없음",
+    })),
   },
   stats: {
     programs: allPrograms.length, checked, failed, changed,
