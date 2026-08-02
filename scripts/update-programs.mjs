@@ -88,6 +88,19 @@ const statusFor = {
   접수마감: "접수 마감",
   전화확인: "전화 확인",
 };
+const availabilityForStatus = {
+  "신청 가능": "접수중",
+  "접수 예정": "접수예정",
+  "대기 신청": "대기접수",
+  "정원 마감": "정원마감",
+  "접수 마감": "접수마감",
+  "전화 확인": "전화확인",
+};
+const safeNextStates = {
+  접수예정: new Set(["접수중", "대기접수", "정원마감", "접수마감"]),
+  접수중: new Set(["대기접수", "정원마감", "접수마감"]),
+  대기접수: new Set(["정원마감", "접수마감"]),
+};
 
 const urlCounts = new Map();
 for (const program of programs) urlCounts.set(program.url, (urlCounts.get(program.url) ?? 0) + 1);
@@ -126,7 +139,9 @@ const updatedPrograms = programs.map((program) => {
   delete next.sourceError;
 
   const inferred = inferAvailability(result.text, program, urlCounts.get(program.url) === 1);
-  if (inferred && inferred !== program.availability) {
+  const currentAvailability = program.availability ?? availabilityForStatus[program.status];
+  const transitionIsSafe = inferred && inferred !== currentAvailability && safeNextStates[currentAvailability]?.has(inferred);
+  if (transitionIsSafe) {
     next.availability = inferred;
     next.status = statusFor[inferred] ?? program.status;
     next.change = "상태변경";
