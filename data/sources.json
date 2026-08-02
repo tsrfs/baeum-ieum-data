@@ -1,0 +1,29 @@
+[
+  {"district":"성동구","institution":"성동구평생학습관","urls":["https://www.sd.go.kr/booking/webEduList2.do?key=4916"]},
+  {"district":"성동구","institution":"성동구 교육·예약기관","urls":["https://www.sd.go.kr/booking/index.do","https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9"]},
+  {"district":"성동구","institution":"성동 AI·미래기술체험센터","urls":["https://aicenter.sd.go.kr/user/page/notice"]},
+  {"district":"성동구","institution":"성동노인종합복지관","urls":["https://sdsenior.or.kr/?lang=ko"]},
+  {"district":"성동구","institution":"옥수종합사회복지관","urls":["https://www.oksoocwc.or.kr/main/sub.html?boardID=www30"]},
+
+  {"district":"강남구","institution":"강남구 평생학습기관","urls":["https://www.gangnam.go.kr/office/longlearn/edu/lecture/longlearn/list.do?mid=longlearn_lecture_all"]},
+  {"district":"강남구","institution":"강남구립도서관","urls":["https://library.gangnam.go.kr/intro/lectureList.do","https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do?manageCd=MJ"]},
+
+  {"district":"광진구","institution":"광진구 교육기관","urls":["https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013","https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2","https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3"]},
+  {"district":"광진구","institution":"광진구립도서관","urls":["https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do"]},
+  {"district":"광진구","institution":"광진노인종합복지관","urls":["https://gjsenior.or.kr/bbs/board.php?bo_table=notice"]},
+
+  {"district":"동대문구","institution":"동대문구 교육·예약기관","urls":["https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseList.do?key=1530","https://www.ddm.go.kr/lll/selectDongdaemunUserCourseList.do?key=1557","https://www.ddm.go.kr/lll/selectDongdaemunUserCourseList.do?key=1556"]},
+  {"district":"동대문구","institution":"동대문노인종합복지관","urls":["https://www.happysenior.or.kr/bbs/board.php?bo_table=0202"]},
+  {"district":"동대문구","institution":"동대문구립도서관","urls":["https://www.l4d.or.kr/small/menu/10016/program/30018/lectureList.do","https://www.l4d.or.kr/jac/20004/bbsPostList.do"]},
+
+  {"district":"서초구","institution":"서초스마트시니어교육센터","urls":["https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoList.do"]},
+
+  {"district":"송파구","institution":"송파구 평생학습기관","urls":["https://www.songpa.go.kr/learn/senior/program/lecture_list.do","https://www.songpa.go.kr/learn/youth/program/lecture_list.do"]},
+
+  {"district":"용산구","institution":"용산구 평생학습기관","urls":["https://yedu.yongsan.go.kr/site/edtotal/index.jsp","https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500"]},
+  {"district":"용산구","institution":"용산노인종합복지관","urls":["https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101"]},
+  {"district":"용산구","institution":"용산역사박물관","urls":["https://museum.yongsan.go.kr/edus"]},
+
+  {"district":"중구","institution":"중구 교육기관","urls":["https://www.junggu.seoul.kr/content.do?cmsid=15104","https://www.junggu.seoul.kr/content.do?cmsid=14680","https://www.junggu.seoul.kr/booking/content.do?cmsid=16661"]},
+  {"district":"중구","institution":"서울특별시중구체육회","urls":["https://junggu.seoul.kr/content.do?cmsid=14231"]}
+]
