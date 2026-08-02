@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - name: Check official program pages
+      - name: Discover new programs and check current status
         run: node scripts/update-programs.mjs
       - name: Save the latest public data
         run: |
