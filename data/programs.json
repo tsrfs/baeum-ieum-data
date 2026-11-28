@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
-  "collectedAt": "2026년 11월 27일 11:55",
-  "collectedAtIso": "2026-11-27T02:55:26.519Z",
-  "sourceCount": 211,
+  "collectedAt": "2026년 11월 28일 11:45",
+  "collectedAtIso": "2026-11-28T02:45:54.243Z",
+  "sourceCount": 217,
   "stats": {
     "programs": 282,
-    "checked": 175,
-    "failed": 101,
+    "checked": 71,
+    "failed": 211,
     "changed": 0,
-    "discovered": 6
+    "discovered": 0
   },
   "programs": [
     {
@@ -23,12 +23,12 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7502&pageUnit=15&pageIndex=1&searchCnd=all",
       "startPhase": "확인 필요",
       "availability": "대기접수",
-      "change": "신규",
       "discoveredAt": "2026-11-27T02:55:26.519Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -42,12 +42,12 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7500&pageUnit=15&pageIndex=1&searchCnd=all",
       "startPhase": "확인 필요",
       "availability": "대기접수",
-      "change": "신규",
       "discoveredAt": "2026-11-27T02:55:26.519Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -61,12 +61,12 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7495&pageUnit=15&pageIndex=1&searchCnd=all",
       "startPhase": "확인 필요",
       "availability": "대기접수",
-      "change": "신규",
       "discoveredAt": "2026-11-27T02:55:26.519Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -80,12 +80,12 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7494&pageUnit=15&pageIndex=1&searchCnd=all",
       "startPhase": "확인 필요",
       "availability": "대기접수",
-      "change": "신규",
       "discoveredAt": "2026-11-27T02:55:26.519Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -99,12 +99,12 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7493&pageUnit=15&pageIndex=1&searchCnd=all",
       "startPhase": "확인 필요",
       "availability": "대기접수",
-      "change": "신규",
       "discoveredAt": "2026-11-27T02:55:26.519Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -118,12 +118,12 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7492&pageUnit=15&pageIndex=1&searchCnd=all",
       "startPhase": "확인 필요",
       "availability": "대기접수",
-      "change": "신규",
       "discoveredAt": "2026-11-27T02:55:26.519Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -138,10 +138,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -156,10 +157,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -174,10 +176,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -192,10 +195,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -210,10 +214,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -228,10 +233,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -246,10 +252,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -264,10 +271,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -282,10 +290,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -300,10 +309,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -318,10 +328,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -336,10 +347,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -354,10 +366,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -372,10 +385,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-22T00:24:57.625Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -390,10 +404,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-11-20T01:47:17.260Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -408,10 +423,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-10-29T00:02:58.968Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -426,10 +442,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-10-26T23:55:53.831Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -444,10 +461,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-10-25T22:37:54.077Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -462,10 +480,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-10-21T23:25:27.246Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -480,10 +499,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -498,10 +518,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -516,10 +537,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -534,10 +556,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -552,10 +575,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -570,10 +594,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -588,10 +613,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -606,10 +632,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -624,10 +651,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-10-14T23:17:09.270Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -642,10 +670,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-10-13T02:05:26.442Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -660,10 +689,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-10-13T02:05:26.442Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -678,10 +708,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-16T23:00:32.327Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -696,10 +727,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-16T23:00:32.327Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -714,10 +746,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-12T22:22:24.069Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -732,10 +765,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-12T22:22:24.069Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -750,10 +784,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -768,10 +803,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -786,10 +822,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -804,10 +841,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -822,10 +860,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -840,10 +879,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -858,10 +898,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -876,10 +917,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-09-10T22:39:15.042Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -894,10 +936,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -912,10 +955,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -930,10 +974,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -948,10 +993,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -966,10 +1012,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -984,10 +1031,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1002,10 +1050,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1020,10 +1069,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1038,10 +1088,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1056,10 +1107,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1074,10 +1126,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1092,10 +1145,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1110,10 +1164,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-07T22:52:18.133Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1128,10 +1183,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1146,10 +1202,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1164,10 +1221,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1182,10 +1240,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1200,10 +1259,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1218,10 +1278,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1236,10 +1297,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1254,10 +1316,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1272,10 +1335,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1290,10 +1354,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-09-01T22:38:24.982Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1308,10 +1373,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1326,10 +1392,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1344,10 +1411,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1362,10 +1430,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1380,10 +1449,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1398,10 +1468,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1416,10 +1487,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1434,10 +1506,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1452,10 +1525,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1470,10 +1544,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-29T02:50:08.689Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1488,10 +1563,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1506,10 +1582,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1524,10 +1601,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1542,10 +1620,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1560,10 +1639,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1578,10 +1658,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1596,10 +1677,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1614,10 +1696,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1632,10 +1715,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1650,10 +1734,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1668,10 +1753,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1686,10 +1772,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1704,10 +1791,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-24T20:51:43.919Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1722,10 +1810,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-18T20:43:04.373Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1740,10 +1829,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-14T20:49:07.774Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1758,10 +1848,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-14T20:49:07.774Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1776,10 +1867,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-11T21:07:17.303Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1794,10 +1886,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-10T21:04:47.722Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1812,10 +1905,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-10T21:04:47.722Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1830,10 +1924,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-10T21:04:47.722Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1848,10 +1943,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-10T21:04:47.722Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1866,10 +1962,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-10T21:04:47.722Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1884,10 +1981,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-10T21:04:47.722Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1902,10 +2000,11 @@
       "startPhase": "확인 필요",
       "availability": "대기접수",
       "discoveredAt": "2026-08-10T21:04:47.722Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1920,10 +2019,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1938,10 +2038,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1956,10 +2057,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1974,10 +2076,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -1992,10 +2095,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2010,10 +2114,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2028,10 +2133,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2046,10 +2152,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2064,10 +2171,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2082,10 +2190,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2100,10 +2209,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2118,10 +2228,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2136,10 +2247,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2154,10 +2266,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2172,10 +2285,11 @@
       "startPhase": "확인 필요",
       "availability": "정원마감",
       "discoveredAt": "2026-08-07T00:55:58.522Z",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
-      "verified": "11.27"
+      "sourceStatus": "확인 실패",
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "성동구",
@@ -2187,7 +2301,7 @@
       "cost": "무료",
       "note": "성동구 생활권자 · 마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2203,7 +2317,7 @@
       "cost": "무료",
       "note": "성동구 생활권자 · 마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2219,7 +2333,7 @@
       "cost": "무료",
       "note": "성동구 생활권자 · 마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2235,7 +2349,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2252,7 +2366,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2269,7 +2383,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2285,7 +2399,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2301,7 +2415,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2317,7 +2431,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2333,7 +2447,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2349,7 +2463,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2365,7 +2479,7 @@
       "cost": "무료",
       "note": "마감 시까지",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2382,7 +2496,7 @@
       "cost": "무료",
       "note": "현장 잔여석 · 02-2286-7807",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2398,7 +2512,7 @@
       "cost": "무료",
       "note": "재료비 별도 가능",
       "url": "https://www.sd.go.kr/booking/webEduList2.do?key=4916&",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2416,7 +2530,7 @@
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=867&key=4916&pageIndex=1&searchCheck=E2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2434,7 +2548,7 @@
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=866&key=4916&pageIndex=1&searchCheck=E2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2452,7 +2566,7 @@
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=865&key=4916&pageIndex=1&searchCheck=E2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2470,7 +2584,7 @@
       "url": "https://www.sd.go.kr/booking/webEduDetail.do?eduMngNo=864&key=4916&pageIndex=1&searchCheck=E2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2488,7 +2602,7 @@
       "url": "https://www.sd.go.kr/booking/bookingOnlineRcepDetail.do?key=4871&progrmNo=742",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2506,7 +2620,7 @@
       "url": "https://www.sd.go.kr/booking/bookingOnlineRcepDetail.do?key=4871&progrmNo=743",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2524,7 +2638,7 @@
       "url": "https://www.sd.go.kr/booking/bookingOnlineRcepDetail.do?key=4871&progrmNo=744",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2540,10 +2654,10 @@
       "cost": "무료",
       "note": "성인 12명 · 공식 예약 12/12 · 취소석 확인",
       "url": "https://aicenter.sd.go.kr/user/page/notice?mode=detail&nttId=10",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "성동구",
@@ -2557,7 +2671,7 @@
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-08-13T21:06:44.429Z",
       "verified": "8.14",
@@ -2575,7 +2689,7 @@
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-08-13T21:06:44.429Z",
       "verified": "8.14",
@@ -2593,7 +2707,7 @@
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
       "startPhase": "개강 전",
       "availability": "대기접수",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-08-13T21:06:44.429Z",
       "verified": "8.14",
@@ -2611,7 +2725,7 @@
       "url": "https://www.sd.go.kr/booking/index.do",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2629,7 +2743,7 @@
       "url": "https://www.sd.go.kr/booking/index.do",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-09-16T23:00:32.327Z",
       "verified": "9.17",
@@ -2647,7 +2761,7 @@
       "url": "https://bogunso.sd.go.kr/booking/selectBookingTnCnteduProgrmListU.do?key=4843&rcpp=9",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-08-13T21:06:44.429Z",
       "verified": "8.14",
@@ -2663,7 +2777,7 @@
       "cost": "강좌별",
       "note": "추가 모집 · 방문 또는 전화",
       "url": "https://sdsenior.or.kr/?lang=ko",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "sourceError": "HTTP 403"
     },
@@ -2677,10 +2791,10 @@
       "cost": "강좌별",
       "note": "신규·잔여석 확인",
       "url": "https://www.oksoocwc.or.kr/main/sub.html?Mode=view&boardID=www30&num=4466",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "동대문구",
@@ -2693,11 +2807,12 @@
       "note": "18/30명 신청 · 잔여 12명 · 8.19까지 · 선착순",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseList.do?key=1557",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "정원마감"
+      "availability": "정원마감",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2711,10 +2826,11 @@
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2728,10 +2844,11 @@
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2745,10 +2862,11 @@
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2762,10 +2880,11 @@
       "url": "https://www.ddm.go.kr/www/selectBbsNttView.do?bbsNo=38&key=198&nttNo=191147",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2778,7 +2897,7 @@
       "note": "정원 30/30명 · 대기 5/5명까지 마감",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7171",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
       "verified": "11.26",
@@ -2795,11 +2914,12 @@
       "note": "8.14 09:00 접수 시작 · 30명 · 대기 15명 · 동대문구민",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7203",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2812,11 +2932,12 @@
       "note": "8.14 09:00 접수 시작 · 20명 · 대기 10명 · 동대문구민",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7202",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2829,11 +2950,12 @@
       "note": "8.14 09:00 접수 시작 · 30명 · 대기 15명 · 동대문구민",
       "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseView.do?key=1556&lctreRcritKey=7201",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2846,11 +2968,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=178&pageIndex=16&pageUnit=15&searchCnd=all",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2863,11 +2986,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=45&pageIndex=16&pageUnit=15&searchCnd=all",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2880,11 +3004,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=85&pageUnit=15&pageIndex=16&searchCnd=all",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2897,11 +3022,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=44&pageUnit=15&pageIndex=16&searchCnd=all",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2914,11 +3040,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=46&pageUnit=15&pageIndex=16&searchCnd=all",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2931,11 +3058,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=47&pageUnit=15&pageIndex=16&searchCnd=all",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2948,11 +3076,12 @@
       "note": "8.18 09:00 접수 시작 · 어르신·주부 대상 · 온라인 정원 0명 · 방문접수 문의",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=4614&receptionStts=TBCCPT",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2965,11 +3094,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=4613&receptionStts=TBCCPT",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2982,11 +3112,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 어르신·주부 대상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=4515&receptionStts=TBCCPT",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -2999,11 +3130,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=360&receptionStts=TBCCPT",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -3016,11 +3148,12 @@
       "note": "8.18 09:00 접수 시작 · 8.21 18:00 마감 · 정원 5명 · 만 20세 이상",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=271&receptionStts=TBCCPT",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
       "verified": "11.27",
-      "availability": "대기접수"
+      "availability": "대기접수",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -3034,10 +3167,11 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7187&receptionStts=ACCPT",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -3051,10 +3185,11 @@
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7178&receptionStts=ACCPT",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -3067,10 +3202,11 @@
       "note": "10/10명 · 65세 이상 특화과정 · 취소석 여부 02-1577-2066",
       "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseView.do?key=1530&lctreRcritKey=7175&receptionStts=ACCPT",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인됨",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "verified": "11.27",
+      "sourceError": "fetch failed"
     },
     {
       "district": "동대문구",
@@ -3082,7 +3218,7 @@
       "cost": "강좌별",
       "note": "잔여석·대기 · 070-5068-0716",
       "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "sourceError": "HTTP 404"
     },
@@ -3096,7 +3232,7 @@
       "cost": "강좌별",
       "note": "잔여석·대기",
       "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "sourceError": "HTTP 404"
     },
@@ -3110,7 +3246,7 @@
       "cost": "강좌별",
       "note": "잔여석·대기",
       "url": "https://www.happysenior.or.kr/bbs/board.php?bo_table=0202",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "sourceError": "HTTP 404"
     },
@@ -3125,7 +3261,7 @@
       "note": "어르신 포함 성인 10명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3142,7 +3278,7 @@
       "note": "어르신 포함 성인 8명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
       "startPhase": "진행 중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3159,7 +3295,7 @@
       "note": "어르신 포함 성인 8명 · 아이패드 활용 · 중구민 우선",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
       "startPhase": "진행 중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3176,7 +3312,7 @@
       "note": "어르신 포함 성인 8명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3193,7 +3329,7 @@
       "note": "어르신 포함 성인 8명 · 중구민 우선 · 선착순",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
       "startPhase": "개강 전",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3210,7 +3346,7 @@
       "note": "어르신 포함 성인 15명 · 온라인 Zoom · 중구민 우선",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=15104",
       "startPhase": "진행 중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3228,7 +3364,7 @@
       "url": "https://www.junggu.seoul.kr/content.do?cid=1461115763&cmsid=14231&mode=view",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3246,7 +3382,7 @@
       "url": "https://www.junggu.seoul.kr/booking/content.do?cmsid=16661&manageSeq=2169&order=1",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3264,7 +3400,7 @@
       "url": "https://www.junggu.seoul.kr/health/content.do?cid=146064&cmsid=15750&mode=view",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3282,7 +3418,7 @@
       "url": "https://junggu.seoul.kr/content.do?cmsid=14231&mode=view&cid=1461458927",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3300,7 +3436,7 @@
       "url": "https://junggu.seoul.kr/content.do?cmsid=14231&mode=view&cid=1461458927",
       "startPhase": "진행 중",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3316,7 +3452,7 @@
       "cost": "과정별",
       "note": "성인 과정 신청 여부 확인",
       "url": "https://www.junggu.seoul.kr/content.do?cmsid=14680",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3332,7 +3468,7 @@
       "cost": "확인 필요",
       "note": "상담 후 참여 · 02-6956-3518",
       "url": "https://www.junggu.seoul.kr/",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-20T23:13:22.473Z",
       "verified": "10.21",
@@ -3349,7 +3485,7 @@
       "note": "추가접수·대기 등록 6.11 종료 · 현재 잔여석 전화 확인 · 02-466-6242",
       "url": "https://gjsenior.or.kr/bbs/board.php?bo_table=notice&wr_id=686",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "sourceError": "HTTP 404"
     },
@@ -3364,7 +3500,7 @@
       "note": "추가접수·대기 등록 6.11 종료 · 현재 잔여석 전화 확인 · 02-466-6242",
       "url": "https://gjsenior.or.kr/bbs/board.php?bo_table=notice&wr_id=686",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "sourceError": "HTTP 404"
     },
@@ -3380,11 +3516,10 @@
       "url": "https://www.gwangjin.go.kr/health/bbs/B0000004/view.do?menuNo=300282&nttId=6567970&pageIndex=",
       "startPhase": "진행 중",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3398,11 +3533,10 @@
       "url": "https://www.gwangjin.go.kr/health/bbs/B0000004/view.do?menuNo=300282&nttId=6567970&pageIndex=",
       "startPhase": "진행 중",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3416,11 +3550,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3434,11 +3567,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3452,11 +3584,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3470,11 +3601,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3488,11 +3618,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3506,11 +3635,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3524,11 +3652,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3542,11 +3669,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3560,11 +3686,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3578,11 +3703,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3596,11 +3720,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3614,11 +3737,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3632,11 +3754,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3650,11 +3771,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3668,11 +3788,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3686,11 +3805,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3704,11 +3822,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3722,11 +3839,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3740,11 +3856,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3758,11 +3873,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3776,11 +3890,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3794,11 +3907,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3812,11 +3924,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3830,11 +3941,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3848,11 +3958,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3866,11 +3975,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3884,11 +3992,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3902,11 +4009,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3920,11 +4026,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3938,11 +4043,10 @@
       "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
-      "sourceStatus": "확인 실패",
-      "lastSuccessfulAt": "2026-11-26T02:53:38.700Z",
-      "verified": "11.26",
-      "sourceError": "fetch failed"
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
+      "sourceStatus": "확인됨",
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "동대문구",
@@ -3956,10 +4060,10 @@
       "url": "https://www.l4d.or.kr/small/menu/10016/program/30018/lectureDetail.do?currentPageNo=1&lectureIdx=1161&manageCd=ALL&statusCd=",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "동대문구",
@@ -3973,10 +4077,10 @@
       "url": "https://www.l4d.or.kr/jac/20004/bbsPostDetail.do?postIdx=47458",
       "startPhase": "개강 전",
       "availability": "접수예정",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -3990,10 +4094,10 @@
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260428140656838887",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4007,10 +4111,10 @@
       "url": "https://gwangjinlib.seoul.kr/gjinfo/lectureDetail.do?lectureIdx=14277",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4024,10 +4128,10 @@
       "url": "https://gwangjinlib.seoul.kr/gjinfo/lectureDetail.do?lectureIdx=14278",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4041,10 +4145,10 @@
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureDetail.do?lectureIdx=14210",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4058,10 +4162,10 @@
       "url": "https://www.gwangjinlib.seoul.kr/achasan/menu/11602/program/30302/lectureDetail.do?currentPageNo=1&lectureIdx=14229&statusCd=&targetTypeCd=",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4075,10 +4179,10 @@
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4092,10 +4196,10 @@
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
       "startPhase": "개강 전",
       "availability": "접수예정",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4109,10 +4213,10 @@
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
       "startPhase": "개강 전",
       "availability": "접수예정",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "광진구",
@@ -4126,10 +4230,10 @@
       "url": "https://www.gwangjinlib.seoul.kr/gjinfo/lectureList.do",
       "startPhase": "개강 전",
       "availability": "대기접수",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "용산구",
@@ -4142,7 +4246,7 @@
       "note": "성인 포함 관람객 누구나 · 별도 예약 없이 참여 · 12.6까지",
       "url": "https://museum.yongsan.go.kr/edus/view?id=920",
       "startPhase": "진행 중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4160,7 +4264,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4178,7 +4282,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4196,7 +4300,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4214,7 +4318,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4232,7 +4336,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4250,7 +4354,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/index.jsp",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4268,7 +4372,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4286,7 +4390,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4304,7 +4408,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4322,7 +4426,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4340,7 +4444,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4358,7 +4462,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4376,7 +4480,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "접수예정",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4394,7 +4498,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4412,7 +4516,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4430,7 +4534,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4448,7 +4552,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4466,7 +4570,7 @@
       "url": "https://yedu.yongsan.go.kr/site/edtotal/happyStudy/userlist.do?decorator=user27EdTotal&menucdv=02060000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4484,7 +4588,7 @@
       "url": "https://yedu.yongsan.go.kr/pms/board/detail.do?boardidn=1024&boardseqn=1224&decorator=user27EdTotal&menucdv=04010000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4502,7 +4606,7 @@
       "url": "https://yedu.yongsan.go.kr/pms/board/detail.do?boardidn=1024&boardseqn=1224&decorator=user27EdTotal&menucdv=04010000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4520,7 +4624,7 @@
       "url": "https://yedu.yongsan.go.kr/pms/board/detail.do?boardidn=1024&boardseqn=1224&decorator=user27EdTotal&menucdv=04010000&sitecdv=S0000500",
       "startPhase": "개강 전",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인 실패",
       "lastSuccessfulAt": "2026-10-14T23:17:09.270Z",
       "verified": "10.15",
@@ -4536,10 +4640,10 @@
       "cost": "강좌별",
       "note": "취소석·대기 · 02-794-6100",
       "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2329",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "용산구",
@@ -4551,10 +4655,10 @@
       "cost": "강좌별",
       "note": "취소석·대기",
       "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2329",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "용산구",
@@ -4566,10 +4670,10 @@
       "cost": "강좌별",
       "note": "취소석 문의",
       "url": "https://www.ysnoin.or.kr/index.php",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "용산구",
@@ -4583,10 +4687,10 @@
       "url": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&sfl=wr_subject&sod=desc&sop=and&sst=wr_datetime&stx=%EA%B5%90%EC%9C%A1&wr_id=2301",
       "startPhase": "진행 중",
       "availability": "전화확인",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z",
-      "verified": "11.27"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z",
+      "verified": "11.28"
     },
     {
       "district": "서초구",
@@ -4600,10 +4704,10 @@
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018500",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "서초구",
@@ -4617,10 +4721,10 @@
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018499",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "서초구",
@@ -4634,10 +4738,10 @@
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018498",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "서초구",
@@ -4651,10 +4755,10 @@
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018497",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "서초구",
@@ -4668,10 +4772,10 @@
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018496",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "서초구",
@@ -4685,10 +4789,10 @@
       "url": "https://www.seocho.go.kr/site/seocho/ex/lecture/info/InfoView.do?clIdx=L00018495",
       "startPhase": "개강 전",
       "availability": "접수마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4702,10 +4806,10 @@
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16657",
       "startPhase": "개강 전",
       "availability": "대기접수",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4719,10 +4823,10 @@
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16300",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4736,10 +4840,10 @@
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16626",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4753,10 +4857,10 @@
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=16622",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4770,10 +4874,10 @@
       "url": "https://www.songpa.go.kr/learn/senior/program/lecture_view.do?lecture_idx=15955",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4787,10 +4891,10 @@
       "url": "https://www.songpa.go.kr/learn/youth/program/lecture_view.do?lecture_idx=15969",
       "startPhase": "진행 중",
       "availability": "접수중",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4804,10 +4908,10 @@
       "url": "https://www.songpa.go.kr/learn/youth/program/lecture_view.do?lecture_idx=190",
       "startPhase": "진행 중",
       "availability": "대기접수",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "송파구",
@@ -4821,10 +4925,10 @@
       "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260512144834110913",
       "startPhase": "진행 중",
       "availability": "정원마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4838,10 +4942,10 @@
       "url": "https://www.gangnam.go.kr/office/longlearn/edu/lecture/longlearn/view.do?eli_lect_key=39794&mid=longlearn_lecture_all",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4855,10 +4959,10 @@
       "url": "https://www.gangnam.go.kr/office/longlearn/edu/lecture/longlearn/view.do?eli_lect_key=39106&mid=longlearn_lecture02",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4872,10 +4976,10 @@
       "url": "https://www.gangnam.go.kr/office/longlearn/edu/lecture/longlearn/view.do?eli_lect_key=39107",
       "startPhase": "개강 전",
       "availability": "접수중",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4889,10 +4993,10 @@
       "url": "https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do?manageCd=MJ",
       "startPhase": "개강 전",
       "availability": "대기접수",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4906,10 +5010,10 @@
       "url": "https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do?manageCd=MJ",
       "startPhase": "개강 전",
       "availability": "대기접수",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4923,10 +5027,10 @@
       "url": "https://library.gangnam.go.kr/intro/menu/10045/program/30013/lectureList.do?manageCd=MJ",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4940,10 +5044,10 @@
       "url": "https://library.gangnam.go.kr/intro/lectureList.do",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     },
     {
       "district": "강남구",
@@ -4957,10 +5061,10 @@
       "url": "https://library.gangnam.go.kr/intro/lectureDetail.do?lectureIdx=33207&manageCd=MI",
       "startPhase": "개강 전",
       "availability": "정원마감",
-      "verified": "11.27",
-      "lastCheckedAt": "2026-11-27T02:55:26.519Z",
+      "verified": "11.28",
+      "lastCheckedAt": "2026-11-28T02:45:54.243Z",
       "sourceStatus": "확인됨",
-      "lastSuccessfulAt": "2026-11-27T02:55:26.519Z"
+      "lastSuccessfulAt": "2026-11-28T02:45:54.243Z"
     }
   ],
   "discovery": {
@@ -4968,7 +5072,7 @@
     "sourcePages": 31,
     "checked": 15,
     "failed": 16,
-    "candidates": 54,
+    "candidates": 42,
     "failedSources": [
       {
         "district": "성동구",
@@ -4996,27 +5100,27 @@
       },
       {
         "district": "광진구",
-        "institution": "광진구 교육기관",
-        "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013",
-        "error": "fetch failed"
-      },
-      {
-        "district": "광진구",
-        "institution": "광진구 교육기관",
-        "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=2",
-        "error": "fetch failed"
-      },
-      {
-        "district": "광진구",
-        "institution": "광진구 교육기관",
-        "url": "https://www.gwangjin.go.kr/edu/pgm/edu/list.do?ctgryCd=0202&menuNo=400013&pageIndex=3",
-        "error": "fetch failed"
-      },
-      {
-        "district": "광진구",
         "institution": "광진노인종합복지관",
         "url": "https://gjsenior.or.kr/bbs/board.php?bo_table=notice",
         "error": "HTTP 404"
+      },
+      {
+        "district": "동대문구",
+        "institution": "동대문구 교육·예약기관",
+        "url": "https://www.ddm.go.kr/reserve/selectDongdaemunUserCourseList.do?key=1530",
+        "error": "fetch failed"
+      },
+      {
+        "district": "동대문구",
+        "institution": "동대문구 교육·예약기관",
+        "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseList.do?key=1557",
+        "error": "fetch failed"
+      },
+      {
+        "district": "동대문구",
+        "institution": "동대문구 교육·예약기관",
+        "url": "https://www.ddm.go.kr/lll/selectDongdaemunUserCourseList.do?key=1556",
+        "error": "fetch failed"
       },
       {
         "district": "동대문구",
